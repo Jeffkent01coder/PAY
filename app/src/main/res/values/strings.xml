@@ -47,4 +47,8 @@
     <string name="olbxmoerwerwq_confirmed_you_have_paid_ksh_5000_to_lavish_appartments_via_e_r_pay_on_05_03_22_at_3_45pm_new_mpesa_balance_is_ksh_7_300_you_can_now_acees_mpesa_via_334_to_reverse_forward_this_message_to_456">OLBXMOERWERWQ Confirmed.You have paid Ksh 5,000 to LAVISH APARTMENTS via E R-PAY on 05/03/22 at 3:45pm. New MPESA Balance is Ksh 7,300. You can now acees MPESA via *334#. To reverse, forward this message to 456.</string>
     <string name="olbxfxuerwq_confirmed_you_have_paid_ksh_5000_to_lavish_appartments_via_e_r_pay_on_23_02_22_at_3_45pm_new_mpesa_balance_is_ksh_15_300_you_can_now_acees_mpesa_via_334_to_reverse_forward_this_message_to_456">OLBXFXUERWQ Confirmed.You have paid Ksh 5,000 to LAVISH APARTMENTS via E R-PAY on 23/02/22 at 3:45pm. New MPESA Balance is Ksh 15,300. You can now acees MPESA via *334#. To reverse, forward this message to 456.</string>
     <string name="p">p</string>
+    <string name="profile">Profile</string>
+    <string name="change">Change</string>
+    <string name="house_no">House No</string>
+    <string name="_1">1</string>
 </resources>
