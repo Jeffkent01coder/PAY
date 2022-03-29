@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.er_pay">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/house"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/house"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ERPAY">
+        <activity
+            android:name=".ui.Notification"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Profile"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Settings"
+            android:exported="false" />
+        <activity
+            android:name=".ui.About"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Requests"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Pay"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Home"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Register"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
